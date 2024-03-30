@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Rakibulislammridha/think-in-a-redux-way-advanced-todo#readme",
   "dependencies": {
+    "node-fetch": "^2.7.0",
     "redux": "^5.0.1"
   }
 }
